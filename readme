@@ -1,0 +1,14 @@
+1)  Only use proxies in the format - server:port:username:password
+Add the proxies line by line in proxies.txt and test them by running test.py
+
+2)  Install all of them using pip install 
+tweepy, requests, datetime, time, json,random,os
+
+3)  Add the keywords in the keyword.txt line by line
+
+4)  Add the replies in the reply.txt line by line
+
+
+5)  proxies,keywords and replies will be randomly choosen from the txt
+
+6)  cred.json holds the credentials
